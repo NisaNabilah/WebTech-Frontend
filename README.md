@@ -1,1 +1,1 @@
-# WebTech-Exercise-2b
+# WebTech (html, css)
